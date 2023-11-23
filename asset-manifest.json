@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ingrid-portfolio/static/css/main.456eeecf.css",
-    "main.js": "/ingrid-portfolio/static/js/main.7ac61a79.js",
+    "main.js": "/ingrid-portfolio/static/js/main.fac4f90f.js",
     "static/media/avatar.png": "/ingrid-portfolio/static/media/avatar.e777be1a0cfbc0136c6d.png",
     "static/media/index-ver03.png": "/ingrid-portfolio/static/media/index-ver03.1d57d1fac0fae526bae0.png",
     "static/media/index-ver04.png": "/ingrid-portfolio/static/media/index-ver04.e62666382dd6df8ec3c0.png",
@@ -78,10 +78,10 @@
     "static/media/paint_can.png": "/ingrid-portfolio/static/media/paint_can.e6b0af9e8a8766942961.png",
     "index.html": "/ingrid-portfolio/index.html",
     "main.456eeecf.css.map": "/ingrid-portfolio/static/css/main.456eeecf.css.map",
-    "main.7ac61a79.js.map": "/ingrid-portfolio/static/js/main.7ac61a79.js.map"
+    "main.fac4f90f.js.map": "/ingrid-portfolio/static/js/main.fac4f90f.js.map"
   },
   "entrypoints": [
     "static/css/main.456eeecf.css",
-    "static/js/main.7ac61a79.js"
+    "static/js/main.fac4f90f.js"
   ]
 }
