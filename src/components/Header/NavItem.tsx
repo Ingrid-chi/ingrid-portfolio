@@ -9,6 +9,10 @@ const Wrapper = styled.a`
   text-decoration: none;
   color: var(--black);
 
+  &:link {
+    color: var(--black);
+  }
+
   &:hover {
     color: var(--yellow);
     transition: 0.3s;

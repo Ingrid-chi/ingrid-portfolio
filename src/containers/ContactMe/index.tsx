@@ -23,7 +23,7 @@ const Wrapper = styled.div`
 
   @media screen and (max-width: ${BREAK_POINT.tablet}px) {
     padding: 0 100px;
-    height: calc(100svh - 80px);
+    height: calc(100vh - 80px);
   }
 
   @media screen and (max-width: ${BREAK_POINT.mobile}px) {
@@ -105,7 +105,7 @@ const Email = styled.a`
   }
 
   @media screen and (max-width: ${BREAK_POINT.tablet}px) {
-    bottom: 40svh;
+    bottom: 40vh;
   }
 `;
 
